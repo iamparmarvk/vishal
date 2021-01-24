@@ -78,7 +78,7 @@ body::-webkit-scrollbar-thumb {
 		transform: rotate(-45deg) translate(35px, 35px);
 	}
 	#BANNER{
-		background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0,0.8) ), url('https://wallpaperaccess.com/full/1567666.png');
+		background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0,0.8) ), url('../images/banner.jpg');
 		background-position: center top;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -604,7 +604,7 @@ body::-webkit-scrollbar-thumb {
 			opacity: 0.9;
 		}
 		#BANNER{
-			background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0,0.8) ), url('https://wallpaperaccess.com/full/1567666.png');
+			background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0,0.8) ), url('../images/banner.jpg');
 			background-position: center top;
 			background-repeat: no-repeat;
 			background-size: cover;
